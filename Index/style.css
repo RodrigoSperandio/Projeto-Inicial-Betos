@@ -1,0 +1,48 @@
+body{
+    background-color: #95b7d8;
+}
+
+h1{
+    color: black;
+    font-family: Arial;
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+    text-decoration: underline;
+}
+
+h3{
+    color: white;
+    text-decoration: overline;
+}
+
+h2{
+    color: black;
+}
+
+li{
+    color: black;
+}
+
+h3{
+    background-color: #5f8bccc5;
+    border: black solid;
+    padding: auto;
+}
+p{
+    color: black;
+}
+
+h4{
+    color: black;
+}
+
+.rua{
+    color: blue;
+}
+
+.post-container .date{
+    width: 70%;
+    height: 100%;
+    margin: 0px auto 0px auto;
+}
